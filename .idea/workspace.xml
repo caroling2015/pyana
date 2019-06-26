@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1412b60b-13af-4095-b9c6-b76ac752bd5c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/anaMoney/ADD_ABBR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/anaMoney/ADD_ABBR.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/anaMoney/baseSQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/anaMoney/baseSQL.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,8 +25,8 @@
       <file leaf-file-name="baseSQL.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/anaMoney/baseSQL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="245">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -61,15 +61,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/anaMoney/baseSQL.py" />
         <option value="$PROJECT_DIR$/anaMoney/consqlite.py" />
         <option value="$PROJECT_DIR$/anaMoney/food_query.py" />
+        <option value="$PROJECT_DIR$/anaMoney/baseSQL.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="103" />
-    <option name="y" value="409" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="y" value="25" />
     <option name="width" value="1440" />
     <option name="height" value="815" />
   </component>
@@ -214,7 +213,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="103" y="409" width="1440" height="815" extended-state="0" />
+    <frame x="0" y="25" width="1440" height="815" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18819444" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -277,6 +277,27 @@
     <entry file="file://$PROJECT_DIR$/anaMoney/consqlite.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="910">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anaMoney/food_query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anaMoney/baseSQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/anaMoney/consqlite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
           <caret line="35" column="16" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
         </state>
       </provider>
@@ -318,8 +339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/anaMoney/baseSQL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="245">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
         </state>
       </provider>
     </entry>
