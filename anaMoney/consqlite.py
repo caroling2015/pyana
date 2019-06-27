@@ -1,3 +1,4 @@
+# -*- coding:UTF-8 -*-
 import sqlite3
 
 def convert(value):
@@ -5,7 +6,7 @@ def convert(value):
         return value.strip('~')
     if not value:
         value='0'
-        return float(value)
+    return float(value)
 
 
 def cTable():
@@ -25,17 +26,16 @@ def cTable():
         'sugar' FLOAT)
     ''')
 
-    query = 'INSERT INTO food VALUES (?,?,?,?,?,?,?,?,?,?,)'
+    query = 'INSERT INTO food VALUES (?,?,?,?,?,?,?,?,?,?)'
 
     for line in open ('ADD_ABBR.txt'):
         fields = line.split ('^')
-        vals = [convert (f) for f in fields]
-        curs.execute (query, vals)
-
+        vals = [convert (f) for f in fields[:10]]
+        curs.execute (query,vals)
     con.commit ()
     con.close ()
 
 
-if '__name__' == '__main__':
-    cTable()
 
+if __name__ == '__main__':
+    cTable()

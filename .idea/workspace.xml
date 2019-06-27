@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1412b60b-13af-4095-b9c6-b76ac752bd5c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/anaMoney/baseSQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/anaMoney/baseSQL.py" afterDir="false" />
-    </list>
+    <list default="true" id="1412b60b-13af-4095-b9c6-b76ac752bd5c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +23,8 @@
       <file leaf-file-name="baseSQL.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/anaMoney/baseSQL.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="271">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -213,8 +211,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="815" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1440" height="815" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18819444" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -339,8 +336,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/anaMoney/baseSQL.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="271">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
