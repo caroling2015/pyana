@@ -1,0 +1,6 @@
+id,name,alias,iata,icao,callsign,country,active
+1,Private flight,\N,-,NaN,NaN,NaN,Y
+2,135 Airways,\N,NaN,GNL,GENERAL,United States,N
+3,1Time Airline,\N,1T,RNX,NEXTIME,South Africa,Y
+4,2 Sqn No 1 Elementary Flying Training School,\N,NaN,WYT,NaN,United Kingdom,N
+5,213 Flight Unit,\N,NaN,TFU,NaN,Russia,N
